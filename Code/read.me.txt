@@ -1,0 +1,11 @@
+The Algorithm is developed in Quantopian Platform. In order to execute algorithm, you have to execute it in Quantopian platform
+
+Step 1 : Go to quantopian.com
+Step 2 : Sign Up for an account
+Step 3: After Log in, In Research Tab, click into Algorithm
+Step 4: Delete all initialised file and paste the algorithm into the text section
+Step 5: Choose the date range you want to test and the initial capital you want to have. 
+My default date testing range is from 01-01-2003(1st January 2019) to 01-04-2019(1st April 2019)
+My default capital is $100,000
+
+Step 6 : Wait for the backtest to execute, you can then view all the portfolio analysis in notebook section, after the backtest is finished
